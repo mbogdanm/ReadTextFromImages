@@ -1,0 +1,220 @@
+Image: English_NA_AAR_05.png, Text Box Number: 1
+Expected Text: Cabin Air
+Actual Text: عز^ زط
+Text does not match the expected text: Cabin Air
+Image: English_NA_AAR_05.png, Text Box Number: 2
+Expected Text: Replace
+Actual Text: ى3م 
+Text does not match the expected text: Replace
+Image: English_NA_AAR_05.png, Text Box Number: 3
+Coordinates: (449, 121, 706, 121, 706, 157, 449, 157) not found for this box number.
+Image: English_NA_AAR_05.png, Text Box Number: 4
+Expected Text: sensor
+Actual Text: ع٨5٥ 
+Text does not match the expected text: sensor
+Image: English_NA_AAR_05.png, Text Box Number: 5
+Coordinates: (366, 160, 788, 160, 788, 192, 366, 192) not found for this box number.
+Image: English_NA_AAR_05.png, Text Box Number: 6
+Coordinates: (408, 190, 744, 190, 744, 223, 408, 223) not found for this box number.
+Image: English_NA_AAR_06.png, Text Box Number: 1
+Expected Text: Cabin Air
+Actual Text: عز^ زط
+Text does not match the expected text: Cabin Air
+Image: English_NA_AAR_06.png, Text Box Number: 2
+Expected Text: Environmenta
+Actual Text: ٥4 ز٧^٤
+Text does not match the expected text: Environmenta
+Image: English_NA_AAR_06.png, Text Box Number: 3
+Coordinates: (449, 121, 706, 121, 706, 157, 449, 157) not found for this box number.
+Image: English_NA_AAR_06.png, Text Box Number: 4
+Expected Text: limit
+Actual Text: ئز"ز
+Text does not match the expected text: limit
+Image: English_NA_AAR_06.png, Text Box Number: 5
+Coordinates: (366, 160, 788, 160, 788, 192, 366, 192) not found for this box number.
+Image: English_NA_AAR_06.png, Text Box Number: 6
+Coordinates: (408, 190, 744, 190, 744, 223, 408, 223) not found for this box number.
+Image: English_NA_Audio_01.png, Text Box Number: 1
+Expected Text: Source
+Actual Text: ىس٥ 
+Text does not match the expected text: Source
+Image: English_NA_Audio_01.png, Text Box Number: 2
+Expected Text: Volume
+Actual Text:  ٥١
+Text does not match the expected text: Volume
+Image: English_NA_Audio_01.png, Text Box Number: 3
+Expected Text: Seek
+Actual Text:  *
+Text does not match the expected text: Seek
+Image: English_NA_Audio_01.png, Text Box Number: 4
+Coordinates: (130, 204, 226, 204, 226, 230, 130, 230) not found for this box number.
+Image: English_NA_Audio_03.png, Text Box Number: 1
+Expected Text: Presets
+Actual Text: ى] 
+Text does not match the expected text: Presets
+Image: English_NA_Audio_05.png, Text Box Number: 1
+Expected Text: Audio Off
+Actual Text: }}0 ٥س 
+Text does not match the expected text: Audio Off
+Image: English_NA_Chauffeur_01.png, Text Box Number: 1
+Expected Text: Rise
+Actual Text: ىز 
+Text does not match the expected text: Rise
+Image: English_NA_Chauffeur_01.png, Text Box Number: 2
+Expected Text: Recline
+Actual Text: ٨ة 
+Text does not match the expected text: Recline
+Image: English_NA_Chauffeur_01.png, Text Box Number: 3
+Expected Text: Back
+Actual Text: ى4 
+Text does not match the expected text: Back
+Image: English_NA_Chauffeur_01.png, Text Box Number: 4
+Coordinates: (573, 206, 677, 206, 677, 234, 573, 234) not found for this box number.
+Image: English_NA_Heat_Cool_01.png, Text Box Number: 1
+Expected Text: 2nd Row Seats
+Actual Text: ى4ص  "٥ ^2
+Text does not match the expected text: 2nd Row Seats
+Image: English_NA_Heat_Cool_01.png, Text Box Number: 2
+Expected Text: nan
+Actual Text: سا =
+Text does not match the expected text: nan
+Image: English_NA_Heat_Cool_01.png, Text Box Number: 3
+Expected Text: nan
+Actual Text: ا٤
+Text does not match the expected text: nan
+Image: English_NA_Home_01.png, Text Box Number: 1
+Expected Text: 05.57
+Actual Text: 05:57
+Text does not match the expected text: 05.57
+Image: English_NA_Home_01.png, Text Box Number: 2
+Expected Text: Audio
+Actual Text: ٥س 
+Text does not match the expected text: Audio
+Image: English_NA_Home_01.png, Text Box Number: 3
+Expected Text: Climate
+Actual Text: 4ا 
+Text does not match the expected text: Climate
+Image: English_NA_Home_01.png, Text Box Number: 4
+Coordinates: (561, 217, 676, 217, 676, 256, 561, 256) not found for this box number.
+Image: English_NA_Settings_02.png, Text Box Number: 1
+Coordinates: (309, 7, 518, 7, 518, 46, 309, 46) not found for this box number.
+Image: English_NA_Settings_02.png, Text Box Number: 2
+Coordinates: (309, 111, 513, 111, 513, 152, 309, 152) not found for this box number.
+Image: English_NA_Settings_03.png, Text Box Number: 1
+Expected Text: Display Brightness
+Actual Text: ىى^ط9ز]  ٥٧مى 
+Text does not match the expected text: Display Brightness
+Image: English_NA_Settings_03.png, Text Box Number: 2
+Expected Text: Reset
+Actual Text: ى 
+Text does not match the expected text: Reset
+Image: English_UK_AAR_06.png, Text Box Number: 1
+Expected Text: Cabin Air
+Actual Text: عز^ زط
+Text does not match the expected text: Cabin Air
+Image: English_UK_AAR_06.png, Text Box Number: 2
+Expected Text: Environmenta
+Actual Text: ٥4 ز^٤
+Text does not match the expected text: Environmenta
+Image: English_UK_AAR_06.png, Text Box Number: 3
+Coordinates: (449, 121, 706, 121, 706, 157, 449, 157) not found for this box number.
+Image: English_UK_AAR_06.png, Text Box Number: 4
+Expected Text: limit
+Actual Text: ئز"ز
+Text does not match the expected text: limit
+Image: English_UK_AAR_06.png, Text Box Number: 5
+Coordinates: (366, 160, 788, 160, 788, 192, 366, 192) not found for this box number.
+Image: English_UK_AAR_06.png, Text Box Number: 6
+Coordinates: (408, 190, 744, 190, 744, 223, 408, 223) not found for this box number.
+Image: English_UK_Audio_01.png, Text Box Number: 1
+Expected Text: Source
+Actual Text: ىس٥ 
+Text does not match the expected text: Source
+Image: English_UK_Audio_01.png, Text Box Number: 2
+Expected Text: Volume
+Actual Text:  ٥١
+Text does not match the expected text: Volume
+Image: English_UK_Audio_01.png, Text Box Number: 3
+Expected Text: Seek
+Actual Text:  *
+Text does not match the expected text: Seek
+Image: English_UK_Audio_01.png, Text Box Number: 4
+Coordinates: (130, 204, 226, 204, 226, 230, 130, 230) not found for this box number.
+Image: English_UK_Audio_03.png, Text Box Number: 1
+Expected Text: Presets
+Actual Text: ى] 
+Text does not match the expected text: Presets
+Image: English_UK_Audio_04.png, Text Box Number: 1
+Coordinates: (359, 12, 461, 12, 461, 37, 359, 37) not found for this box number.
+Image: English_UK_Audio_04.png, Text Box Number: 2
+Expected Text: AM
+Actual Text: ٥٨
+Text does not match the expected text: AM
+Image: English_UK_Audio_04.png, Text Box Number: 3
+Expected Text: FM
+Actual Text: ٤٨
+Text does not match the expected text: FM
+Image: English_UK_Audio_04.png, Text Box Number: 4
+Expected Text: Iiri  DAB
+Actual Text: |٥ ١٢١^8
+Text does not match the expected text: Iiri  DAB
+Image: English_UK_Audio_04.png, Text Box Number: 5
+Expected Text: Sxm
+Actual Text: $٨
+Text does not match the expected text: Sxm
+Image: English_UK_Audio_04.png, Text Box Number: 6
+Expected Text: SiriusXM
+Actual Text: ٨}كسزرز 
+Text does not match the expected text: SiriusXM
+Image: English_UK_Audio_04.png, Text Box Number: 7
+Expected Text: USB 1
+Actual Text: 0$8 1
+Text does not match the expected text: USB 1
+Image: English_UK_Audio_04.png, Text Box Number: 8
+Expected Text: USB 2
+Actual Text: 0$8 2
+Text does not match the expected text: USB 2
+Image: English_UK_Audio_05.png, Text Box Number: 1
+Expected Text: Audio Off
+Actual Text: }}0 ٥س 
+Text does not match the expected text: Audio Off
+Image: English_UK_Chauffeur_01.png, Text Box Number: 1
+Expected Text: Rise
+Actual Text: ىز 
+Text does not match the expected text: Rise
+Image: English_UK_Chauffeur_01.png, Text Box Number: 2
+Expected Text: Recline
+Actual Text: ٨ة 
+Text does not match the expected text: Recline
+Image: English_UK_Chauffeur_01.png, Text Box Number: 3
+Expected Text: Back
+Actual Text: ى4 
+Text does not match the expected text: Back
+Image: English_UK_Chauffeur_01.png, Text Box Number: 4
+Coordinates: (573, 206, 677, 206, 677, 234, 573, 234) not found for this box number.
+Image: English_UK_Heat_Cool_01.png, Text Box Number: 1
+Expected Text: 2nd Row Seats
+Actual Text: ى4ص  "٥ ^2
+Text does not match the expected text: 2nd Row Seats
+Image: English_UK_Heat_Cool_01.png, Text Box Number: 2
+Expected Text: nan
+Actual Text: سا =
+Text does not match the expected text: nan
+Image: English_UK_Heat_Cool_01.png, Text Box Number: 3
+Expected Text: nan
+Actual Text: ا٤
+Text does not match the expected text: nan
+Image: English_UK_Lighting_01.png, Text Box Number: 1
+Coordinates: (312, 12, 532, 12, 532, 44, 312, 44) not found for this box number.
+Image: English_UK_Settings_02.png, Text Box Number: 1
+Coordinates: (309, 7, 518, 7, 518, 46, 309, 46) not found for this box number.
+Image: English_UK_Settings_02.png, Text Box Number: 2
+Coordinates: (309, 111, 513, 111, 513, 152, 309, 152) not found for this box number.
+Image: English_UK_Settings_03.png, Text Box Number: 1
+Expected Text: Display Brightness
+Actual Text: ىى^ط9ز]  ٥٧مى 
+Text does not match the expected text: Display Brightness
+Image: English_UK_Settings_03.png, Text Box Number: 2
+Expected Text: Reset
+Actual Text: ى 
+Text does not match the expected text: Reset

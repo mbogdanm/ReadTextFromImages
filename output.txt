@@ -1,0 +1,134 @@
+Image: Arabic_AAR_01.png, Text: هواء المقصورة, Coordinates: ((122, 12), (329, 12), (329, 56), (122, 56)), Text Box Number: 1
+Image: Arabic_AAR_01.png, Text:  2.5, Coordinates: ((186, 90), (266, 90), (266, 118), (186, 118)), Text Box Number: 2
+Image: Arabic_AAR_01.png, Text: 100, Coordinates: ((164, 117), (286, 117), (286, 177), (164, 177)), Text Box Number: 3
+Image: Arabic_AAR_01.png, Text: تنقية الهواء التلقائية, Coordinates: ((435, 121), (703, 121), (703, 163), (435, 163)), Text Box Number: 4
+Image: Arabic_AAR_01.png, Text: يجب, Coordinates: ((427, 169), (475, 169), (475, 189), (427, 189)), Text Box Number: 5
+Image: Arabic_AAR_01.png, Text: لتنقية هواء المقصورة,, Coordinates: ((474, 160), (711, 160), (711, 196), (474, 196)), Text Box Number: 6
+Image: Arabic_AAR_01.png, Text: 9س, Coordinates: ((183, 175), (257, 175), (257, 211), (183, 211)), Text Box Number: 7
+Image: Arabic_AAR_01.png, Text: تشغيل نظام التحكم بالتكييف الأمامي, Coordinates: ((375, 189), (759, 189), (759, 225), (375, 225)), Text Box Number: 8
+Image: Arabic_AAR_02.png, Text: هواء المقصورة, Coordinates: ((122, 12), (329, 12), (329, 56), (122, 56)), Text Box Number: 1
+Image: Arabic_AAR_02.png, Text:  10, Coordinates: ((190, 90), (262, 90), (262, 118), (190, 118)), Text Box Number: 2
+Image: Arabic_AAR_02.png, Text: 100, Coordinates: ((165, 117), (287, 117), (287, 177), (165, 177)), Text Box Number: 3
+Image: Arabic_AAR_02.png, Text: تنقية الهواء التلقائية, Coordinates: ((435, 121), (703, 121), (703, 163), (435, 163)), Text Box Number: 4
+Image: Arabic_AAR_02.png, Text: نظام التحكم بالتكييف, Coordinates: ((461, 159), (677, 159), (677, 195), (461, 195)), Text Box Number: 5
+Image: Arabic_AAR_02.png, Text: المقصورة, Coordinates: ((455, 190), (564, 190), (564, 223), (455, 223)), Text Box Number: 6
+Image: Arabic_AAR_02.png, Text: ينقي, Coordinates: ((615, 185), (681, 185), (681, 225), (615, 225)), Text Box Number: 7
+Image: Arabic_AAR_02.png, Text: /9س, Coordinates: ((180, 179), (255, 170), (257, 205), (182, 214)), Text Box Number: 8
+Image: Arabic_AAR_02.png, Text: هواء, Coordinates: ((566, 188), (620, 197), (614, 225), (561, 216)), Text Box Number: 9
+Image: Arabic_AAR_03.png, Text: هواء المقصورة, Coordinates: ((122, 12), (329, 12), (329, 56), (122, 56)), Text Box Number: 1
+Image: Arabic_AAR_03.png, Text: يجري البدء, Coordinates: ((174, 138), (276, 138), (276, 166), (174, 166)), Text Box Number: 2
+Image: Arabic_AAR_03.png, Text: تنقية الهواء التلقائية, Coordinates: ((435, 121), (703, 121), (703, 163), (435, 163)), Text Box Number: 3
+Image: Arabic_AAR_03.png, Text: يجب, Coordinates: ((427, 171), (475, 171), (475, 189), (427, 189)), Text Box Number: 4
+Image: Arabic_AAR_03.png, Text: لتنقية هواء المقصورة,, Coordinates: ((474, 160), (711, 160), (711, 196), (474, 196)), Text Box Number: 5
+Image: Arabic_AAR_03.png, Text: تشغيل نظام التحكم بالتكييف الأمامي, Coordinates: ((375, 189), (759, 189), (759, 225), (375, 225)), Text Box Number: 6
+Image: Arabic_AAR_04.png, Text: هواء المقصورة, Coordinates: ((122, 12), (329, 12), (329, 56), (122, 56)), Text Box Number: 1
+Image: Arabic_AAR_04.png, Text: جهاز استشعار, Coordinates: ((154, 122), (298, 122), (298, 154), (154, 154)), Text Box Number: 2
+Image: Arabic_AAR_04.png, Text: تنقية الهواء التلقائية, Coordinates: ((435, 121), (703, 121), (703, 163), (435, 163)), Text Box Number: 3
+Image: Arabic_AAR_04.png, Text: يجب, Coordinates: ((427, 171), (475, 171), (475, 189), (427, 189)), Text Box Number: 4
+Image: Arabic_AAR_04.png, Text: لتنقية هواء المقصورة,, Coordinates: ((474, 160), (711, 160), (711, 196), (474, 196)), Text Box Number: 5
+Image: Arabic_AAR_04.png, Text: تشغيل نظام التحكم بالتكييف الأمامي, Coordinates: ((375, 189), (759, 189), (759, 225), (375, 225)), Text Box Number: 6
+Image: Arabic_AAR_04.png, Text: محجوب, Coordinates: ((182, 156), (265, 150), (266, 175), (183, 182)), Text Box Number: 7
+Image: Arabic_AAR_05.png, Text: هواء المقصورة, Coordinates: ((122, 12), (329, 12), (329, 56), (122, 56)), Text Box Number: 1
+Image: Arabic_AAR_05.png, Text: يجب استبدال, Coordinates: ((156, 119), (294, 119), (294, 152), (156, 152)), Text Box Number: 2
+Image: Arabic_AAR_05.png, Text: تنقية الهواء التلقائية, Coordinates: ((435, 121), (703, 121), (703, 163), (435, 163)), Text Box Number: 3
+Image: Arabic_AAR_05.png, Text: جهاز استشعار, Coordinates: ((149, 145), (299, 145), (299, 183), (149, 183)), Text Box Number: 4
+Image: Arabic_AAR_05.png, Text: يجب, Coordinates: ((427, 171), (475, 171), (475, 189), (427, 189)), Text Box Number: 5
+Image: Arabic_AAR_05.png, Text: لتنقية هواء المقصورة,, Coordinates: ((474, 160), (711, 160), (711, 196), (474, 196)), Text Box Number: 6
+Image: Arabic_AAR_05.png, Text: تشغيل نظام التحكم بالتكييف الأمامي, Coordinates: ((375, 189), (759, 189), (759, 225), (375, 225)), Text Box Number: 7
+Image: Arabic_AAR_06.png, Text: هواء المقصورة, Coordinates: ((122, 12), (329, 12), (329, 56), (122, 56)), Text Box Number: 1
+Image: Arabic_AAR_06.png, Text: قياس محدود, Coordinates: ((158, 122), (294, 122), (294, 152), (158, 152)), Text Box Number: 2
+Image: Arabic_AAR_06.png, Text: تنقية الهواء التلقائية, Coordinates: ((435, 121), (703, 121), (703, 163), (435, 163)), Text Box Number: 3
+Image: Arabic_AAR_06.png, Text: لأسباب بيئية, Coordinates: ((158, 150), (292, 150), (292, 178), (158, 178)), Text Box Number: 4
+Image: Arabic_AAR_06.png, Text: يجب, Coordinates: ((427, 171), (475, 171), (475, 189), (427, 189)), Text Box Number: 5
+Image: Arabic_AAR_06.png, Text: لتنقية هواء المقصورة,, Coordinates: ((474, 160), (711, 160), (711, 196), (474, 196)), Text Box Number: 6
+Image: Arabic_AAR_06.png, Text: تشغيل نظام التحكم بالتكييف الأمامي, Coordinates: ((375, 189), (759, 189), (759, 225), (375, 225)), Text Box Number: 7
+Image: Arabic_Audio_01.png, Text: مصدر, Coordinates: ((142, 64), (208, 64), (208, 88), (142, 88)), Text Box Number: 1
+Image: Arabic_Audio_01.png, Text: المسبقة, Coordinates: ((131, 204), (225, 204), (225, 228), (131, 228)), Text Box Number: 2
+Image: Arabic_Audio_01.png, Text: الموا, Coordinates: ((641, 63), (701, 57), (702, 82), (643, 88)), Text Box Number: 3
+Image: Arabic_Audio_02.png, Text: , Coordinates: ((391, 53), (433, 53), (433, 103), (391, 103)), Text Box Number: 1
+Image: Arabic_Audio_02.png, Text: إقفال خلفي, Coordinates: ((327, 110), (497, 110), (497, 152), (327, 152)), Text Box Number: 2
+Image: Arabic_Audio_02.png, Text: وظائف الصوت الخلفية مقفلة. اضغط زر, Coordinates: ((211, 155), (613, 155), (613, 191), (211, 191)), Text Box Number: 3
+Image: Arabic_Audio_02.png, Text: الأمام لإزالة القفل, Coordinates: ((164, 186), (354, 186), (354, 218), (164, 218)), Text Box Number: 4
+Image: Arabic_Audio_02.png, Text: قفل وظائف الخلف الواقع, Coordinates: ((395, 181), (664, 181), (664, 220), (395, 220)), Text Box Number: 5
+Image: Arabic_Audio_02.png, Text: في, Coordinates: ((352, 189), (395, 186), (396, 213), (353, 216)), Text Box Number: 6
+Image: Arabic_Audio_03.png, Text: المسبقة, Coordinates: ((374, 12), (468, 12), (468, 38), (374, 38)), Text Box Number: 1
+Image: Arabic_Audio_04.png, Text: المصادر, Coordinates: ((366, 9), (455, 9), (455, 42), (366, 42)), Text Box Number: 1
+Image: Arabic_Audio_04.png, Text: ٨, Coordinates: ((148, 112), (192, 112), (192, 140), (148, 140)), Text Box Number: 2
+Image: Arabic_Audio_04.png, Text: ٤٨, Coordinates: ((414, 112), (456, 112), (456, 140), (414, 140)), Text Box Number: 3
+Image: Arabic_Audio_04.png, Text: |٥ ١٢١^8, Coordinates: ((634, 110), (726, 110), (726, 140), (634, 140)), Text Box Number: 4
+Image: Arabic_Audio_04.png, Text: $, Coordinates: ((74, 183), (111, 183), (111, 201), (74, 201)), Text Box Number: 5
+Image: Arabic_Audio_04.png, Text: ٨}كسأ]ز , Coordinates: ((116, 178), (230, 178), (230, 208), (116, 208)), Text Box Number: 6
+Image: Arabic_Audio_04.png, Text: $8 1, Coordinates: ((392, 178), (466, 178), (466, 208), (392, 208)), Text Box Number: 7
+Image: Arabic_Audio_04.png, Text: 0$8 2, Coordinates: ((654, 178), (732, 178), (732, 208), (654, 208)), Text Box Number: 8
+Image: Arabic_Audio_05.png, Text: تم إيقاف الصوت, Coordinates: ((299, 81), (529, 81), (529, 119), (299, 119)), Text Box Number: 1
+Image: Arabic_Audio_06.png, Text: ٤, Coordinates: ((412, 70), (442, 70), (442, 120), (412, 120)), Text Box Number: 1
+Image: Arabic_Audio_06.png, Text: جلسة الصوت نشطة, Coordinates: ((283, 131), (555, 131), (555, 172), (283, 172)), Text Box Number: 2
+Image: Arabic_Audio_06.png, Text: أزرار التحكم بالصوت غير متوفرة, Coordinates: ((263, 173), (579, 173), (579, 211), (263, 211)), Text Box Number: 3
+Image: Arabic_Audio_07.png, Text: المكالمة الهاتفية نشطة, Coordinates: ((261, 131), (567, 131), (567, 173), (261, 173)), Text Box Number: 1
+Image: Arabic_Audio_07.png, Text: أزرار التحكم بالصوت غير متوفرة, Coordinates: ((255, 175), (571, 175), (571, 212), (255, 212)), Text Box Number: 2
+Image: Arabic_Chauffeur_01.png, Text: رفع, Coordinates: ((190, 94), (232, 94), (232, 120), (190, 120)), Text Box Number: 1
+Image: Arabic_Chauffeur_01.png, Text: إرجاع, Coordinates: ((186, 208), (238, 208), (238, 240), (186, 240)), Text Box Number: 2
+Image: Arabic_Chauffeur_01.png, Text: حني, Coordinates: ((598, 93), (649, 88), (651, 113), (599, 118)), Text Box Number: 3
+Image: Arabic_Chauffeur_01.png, Text: تقديم, Coordinates: ((591, 211), (659, 205), (661, 231), (593, 237)), Text Box Number: 4
+Image: Arabic_Climate_01.png, Text: 0ح٧ , Coordinates: ((384, 38), (460, 38), (460, 66), (384, 66)), Text Box Number: 1
+Image: Arabic_Climate_01.png, Text: إيقاف, Coordinates: ((533, 109), (669, 109), (669, 169), (533, 169)), Text Box Number: 2
+Image: Arabic_Climate_02.png, Text: 0ح٧ , Coordinates: ((384, 38), (460, 38), (460, 66), (384, 66)), Text Box Number: 1
+Image: Arabic_Climate_02.png, Text:  ١, Coordinates: ((572, 108), (626, 108), (626, 156), (572, 156)), Text Box Number: 2
+Image: Arabic_Climate_03.png, Text: 0ح٧ , Coordinates: ((384, 38), (460, 38), (460, 66), (384, 66)), Text Box Number: 1
+Image: Arabic_Climate_03.png, Text: |0, Coordinates: ((564, 108), (636, 108), (636, 158), (564, 158)), Text Box Number: 2
+Image: Arabic_Climate_04.png, Text: ؟, Coordinates: ((393, 53), (433, 53), (433, 103), (393, 103)), Text Box Number: 1
+Image: Arabic_Climate_04.png, Text: إقفال خلفي, Coordinates: ((327, 110), (497, 110), (497, 153), (327, 153)), Text Box Number: 2
+Image: Arabic_Climate_04.png, Text: التحكم الخلفي بالتكييف مقفل استخدم أزرار, Coordinates: ((193, 153), (633, 153), (633, 192), (193, 192)), Text Box Number: 3
+Image: Arabic_Climate_04.png, Text: الأمام لإزالة القفل., Coordinates: ((175, 183), (371, 183), (371, 219), (175, 219)), Text Box Number: 4
+Image: Arabic_Climate_04.png, Text: التحكم الخلفي بالتكييف, Coordinates: ((414, 182), (650, 182), (650, 215), (414, 215)), Text Box Number: 5
+Image: Arabic_Climate_04.png, Text: في, Coordinates: ((365, 192), (411, 186), (413, 211), (368, 217)), Text Box Number: 6
+Image: Arabic_Heat_Cool_01.png, Text: مقاعد المف 2, Coordinates: ((342, 12), (498, 12), (498, 38), (342, 38)), Text Box Number: 1
+Image: Arabic_Heat_Cool_01.png, Text: سا =, Coordinates: ((656, 106), (772, 106), (772, 162), (656, 162)), Text Box Number: 2
+Image: Arabic_Heat_Cool_01.png, Text: ا٤, Coordinates: ((660, 190), (766, 190), (766, 240), (660, 240)), Text Box Number: 3
+Image: Arabic_Home_01.png, Text: 05:58, Coordinates: ((376, 8), (466, 8), (466, 40), (376, 40)), Text Box Number: 1
+Image: Arabic_Home_01.png, Text: الصوت, Coordinates: ((187, 221), (268, 221), (268, 253), (187, 253)), Text Box Number: 2
+Image: Arabic_Home_01.png, Text: التكببف, Coordinates: ((394, 222), (462, 222), (462, 248), (394, 248)), Text Box Number: 3
+Image: Arabic_Home_01.png, Text: الإعدادات, Coordinates: ((569, 220), (670, 220), (670, 252), (569, 252)), Text Box Number: 4
+Image: Arabic_Home_02.png, Text: 06:02, Coordinates: ((373, 7), (467, 7), (467, 39), (373, 39)), Text Box Number: 1
+Image: Arabic_Home_02.png, Text: المقاعد, Coordinates: ((58, 222), (138, 222), (138, 248), (58, 248)), Text Box Number: 2
+Image: Arabic_Home_02.png, Text: الصوت, Coordinates: ((221, 221), (302, 221), (302, 253), (221, 253)), Text Box Number: 3
+Image: Arabic_Home_02.png, Text: التكببف, Coordinates: ((380, 222), (460, 222), (460, 248), (380, 248)), Text Box Number: 4
+Image: Arabic_Home_02.png, Text: نوعية الهواء, Coordinates: ((517, 220), (644, 220), (644, 256), (517, 256)), Text Box Number: 5
+Image: Arabic_Home_02.png, Text: الإضاءة, Coordinates: ((700, 222), (784, 222), (784, 254), (700, 254)), Text Box Number: 6
+Image: Arabic_Home_03.png, Text: |0, Coordinates: ((18, 8), (56, 8), (56, 34), (18, 34)), Text Box Number: 1
+Image: Arabic_Home_03.png, Text: 07:13, Coordinates: ((380, 8), (464, 8), (464, 40), (380, 40)), Text Box Number: 2
+Image: Arabic_Home_03.png, Text: المقاعد, Coordinates: ((58, 222), (138, 222), (138, 248), (58, 248)), Text Box Number: 3
+Image: Arabic_Home_03.png, Text: الصوت, Coordinates: ((221, 221), (302, 221), (302, 253), (221, 253)), Text Box Number: 4
+Image: Arabic_Home_03.png, Text: التكببف, Coordinates: ((380, 222), (460, 222), (460, 248), (380, 248)), Text Box Number: 5
+Image: Arabic_Home_03.png, Text: نوعية الهواء, Coordinates: ((517, 220), (644, 220), (644, 256), (517, 256)), Text Box Number: 6
+Image: Arabic_Home_03.png, Text: الإضاءة, Coordinates: ((700, 222), (784, 222), (784, 254), (700, 254)), Text Box Number: 7
+Image: Arabic_Home_04.png, Text: ||, Coordinates: ((20, 8), (50, 8), (50, 34), (20, 34)), Text Box Number: 1
+Image: Arabic_Home_04.png, Text: 07:15, Coordinates: ((380, 8), (462, 8), (462, 40), (380, 40)), Text Box Number: 2
+Image: Arabic_Home_04.png, Text: المقاعد, Coordinates: ((58, 222), (138, 222), (138, 248), (58, 248)), Text Box Number: 3
+Image: Arabic_Home_04.png, Text: الصوت, Coordinates: ((221, 221), (302, 221), (302, 253), (221, 253)), Text Box Number: 4
+Image: Arabic_Home_04.png, Text: التكببف, Coordinates: ((380, 222), (460, 222), (460, 248), (380, 248)), Text Box Number: 5
+Image: Arabic_Home_04.png, Text: نوعية الهواء, Coordinates: ((517, 220), (644, 220), (644, 256), (517, 256)), Text Box Number: 6
+Image: Arabic_Home_04.png, Text: الإضاءة, Coordinates: ((700, 222), (784, 222), (784, 254), (700, 254)), Text Box Number: 7
+Image: Arabic_Home_05.png, Text: 06:12, Coordinates: ((378, 8), (462, 8), (462, 40), (378, 40)), Text Box Number: 1
+Image: Arabic_Home_05.png, Text: ضبط, Coordinates: ((150, 224), (206, 224), (206, 248), (150, 248)), Text Box Number: 2
+Image: Arabic_Home_05.png, Text: تدليك, Coordinates: ((308, 222), (372, 222), (372, 248), (308, 248)), Text Box Number: 3
+Image: Arabic_Home_05.png, Text: التدفئة, Coordinates: ((462, 222), (538, 222), (538, 248), (462, 248)), Text Box Number: 4
+Image: Arabic_Home_05.png, Text: س}عس4ط, Coordinates: ((598, 222), (724, 222), (724, 248), (598, 248)), Text Box Number: 5
+Image: Arabic_Home_06.png, Text: 06:07, Coordinates: ((376, 8), (466, 8), (466, 40), (376, 40)), Text Box Number: 1
+Image: Arabic_Home_06.png, Text: ضبط, Coordinates: ((150, 224), (206, 224), (206, 248), (150, 248)), Text Box Number: 2
+Image: Arabic_Home_06.png, Text: تدليك, Coordinates: ((306, 222), (372, 222), (372, 248), (306, 248)), Text Box Number: 3
+Image: Arabic_Home_06.png, Text: تبريد, Coordinates: ((434, 226), (488, 226), (488, 252), (434, 252)), Text Box Number: 4
+Image: Arabic_Home_06.png, Text: تدفئة, Coordinates: ((502, 222), (564, 222), (564, 248), (502, 248)), Text Box Number: 5
+Image: Arabic_Home_06.png, Text: س}عس4ط, Coordinates: ((598, 222), (724, 222), (724, 248), (598, 248)), Text Box Number: 6
+Image: Arabic_Lighting_01.png, Text: الإضاءة المحيطية, Coordinates: ((326, 12), (502, 12), (502, 40), (326, 40)), Text Box Number: 1
+Image: Arabic_MCS_01.png, Text: تدليك, Coordinates: ((669, 36), (734, 36), (734, 64), (669, 64)), Text Box Number: 1
+Image: Arabic_MCS_01.png, Text: يسار, Coordinates: ((146, 84), (198, 84), (198, 112), (146, 112)), Text Box Number: 2
+Image: Arabic_MCS_01.png, Text: يمين, Coordinates: ((144, 212), (200, 212), (200, 238), (144, 238)), Text Box Number: 3
+Image: Arabic_Settings_01.png, Text: إعدادات العرض, Coordinates: ((334, 10), (494, 10), (494, 42), (334, 42)), Text Box Number: 1
+Image: Arabic_Settings_01.png, Text: إطفاء شاشة العرض, Coordinates: ((132, 118), (342, 118), (342, 151), (132, 151)), Text Box Number: 2
+Image: Arabic_Settings_01.png, Text: شاشة هادئة, Coordinates: ((500, 118), (632, 118), (632, 144), (500, 144)), Text Box Number: 3
+Image: Arabic_Settings_01.png, Text: الإشراق, Coordinates: ((370, 200), (458, 200), (458, 232), (370, 232)), Text Box Number: 4
+Image: Arabic_Settings_02.png, Text: إعدادات العرض, Coordinates: ((334, 10), (494, 10), (494, 42), (334, 42)), Text Box Number: 1
+Image: Arabic_Settings_02.png, Text: إشراق تلقائي, Coordinates: ((335, 111), (485, 111), (485, 151), (335, 151)), Text Box Number: 2
+Image: Arabic_Settings_03.png, Text: إشراق الشاشة, Coordinates: ((346, 12), (500, 12), (500, 44), (346, 44)), Text Box Number: 1
+Image: Arabic_Settings_03.png, Text: إعادة ضبط, Coordinates: ((366, 184), (476, 184), (476, 214), (366, 214)), Text Box Number: 2

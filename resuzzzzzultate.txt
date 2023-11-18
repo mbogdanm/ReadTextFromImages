@@ -1,0 +1,265 @@
+Image: English_NA_AAR_05.png
+Coordinates: (161, 11, 309, 11, 309, 47, 161, 47)
+Expected Text: Cabin Air
+Actual Text: Cabin Air
+Text matches the expected text: Cabin Air
+Image: English_NA_AAR_05.png
+Coordinates: (184, 122, 284, 122, 284, 154, 184, 154)
+Expected Text: Replace
+Actual Text: Replace
+Text matches the expected text: Replace
+Image: English_NA_AAR_05.png
+Coordinates: (449, 121, 706, 121, 706, 157, 449, 157) not found for this image.
+Image: English_NA_AAR_05.png
+Coordinates: (191, 155, 275, 155, 275, 175, 191, 175)
+Expected Text: sensor
+Actual Text: sensor
+Text matches the expected text: sensor
+Image: English_NA_AAR_05.png
+Coordinates: (366, 160, 788, 160, 788, 192, 366, 192) not found for this image.
+Image: English_NA_AAR_05.png
+Coordinates: (408, 190, 744, 190, 744, 223, 408, 223) not found for this image.
+Image: English_NA_AAR_06.png
+Coordinates: (161, 11, 309, 11, 309, 47, 161, 47)
+Expected Text: Cabin Air
+Actual Text: Cabin Air
+Text matches the expected text: Cabin Air
+Image: English_NA_AAR_06.png
+Coordinates: (143, 122, 317, 122, 317, 148, 143, 148)
+Expected Text: Environmenta
+Actual Text: Environmenta
+Text matches the expected text: Environmenta
+Image: English_NA_AAR_06.png
+Coordinates: (449, 121, 706, 121, 706, 157, 449, 157) not found for this image.
+Image: English_NA_AAR_06.png
+Coordinates: (200, 150, 264, 150, 264, 178, 200, 178)
+Expected Text: limit
+Actual Text: limit
+Text matches the expected text: limit
+Image: English_NA_AAR_06.png
+Coordinates: (366, 160, 788, 160, 788, 192, 366, 192) not found for this image.
+Image: English_NA_AAR_06.png
+Coordinates: (408, 190, 744, 190, 744, 223, 408, 223) not found for this image.
+Image: English_NA_Audio_01.png
+Coordinates: (129, 58, 219, 58, 219, 84, 129, 84)
+Expected Text: Source
+Actual Text: Source
+Text matches the expected text: Source
+Image: English_NA_Audio_01.png
+Coordinates: (612, 58, 708, 58, 708, 84, 612, 84)
+Expected Text: Volume
+Actual Text: Volume
+Text matches the expected text: Volume
+Image: English_NA_Audio_01.png
+Coordinates: (388, 180, 454, 180, 454, 208, 388, 208)
+Expected Text: Seek
+Actual Text: Seek
+Text matches the expected text: Seek
+Image: English_NA_Audio_01.png
+Coordinates: (130, 204, 226, 204, 226, 230, 130, 230) not found for this image.
+Image: English_NA_Audio_03.png
+Coordinates: (372, 12, 468, 12, 468, 38, 372, 38)
+Expected Text: Presets
+Actual Text: Presets
+Text matches the expected text: Presets
+Image: English_NA_Audio_05.png
+Coordinates: (335, 79, 491, 79, 491, 115, 335, 115)
+Expected Text: Audio Off
+Actual Text: Audio Off
+Text matches the expected text: Audio Off
+Image: English_NA_Chauffeur_01.png
+Coordinates: (184, 88, 238, 88, 238, 116, 184, 116)
+Expected Text: Rise
+Actual Text: Rise
+Text matches the expected text: Rise
+Image: English_NA_Chauffeur_01.png
+Coordinates: (580, 88, 672, 88, 672, 116, 580, 116)
+Expected Text: Recline
+Actual Text: Recline
+Text matches the expected text: Recline
+Image: English_NA_Chauffeur_01.png
+Coordinates: (180, 208, 242, 208, 242, 234, 180, 234)
+Expected Text: Back
+Actual Text: Back
+Text matches the expected text: Back
+Image: English_NA_Chauffeur_01.png
+Coordinates: (573, 206, 677, 206, 677, 234, 573, 234) not found for this image.
+Image: English_NA_Heat_Cool_01.png
+Coordinates: (330, 12, 512, 12, 512, 40, 330, 40)
+Expected Text: 2nd Row Seats
+Actual Text: 2nd Row Seats
+Text matches the expected text: 2nd Row Seats
+Image: English_NA_Heat_Cool_01.png
+Coordinates: (656, 106, 772, 106, 772, 162, 656, 162)
+Expected Text: nan
+Actual Text: =W
+Text does not match the expected text: nan
+Image: English_NA_Heat_Cool_01.png
+Coordinates: (660, 190, 766, 190, 766, 240, 660, 240)
+Expected Text: nan
+Actual Text: =k
+Text does not match the expected text: nan
+Image: English_NA_Home_01.png
+Coordinates: (376, 8, 464, 8, 464, 40, 376, 40)
+Expected Text: 05.57
+Actual Text: 05.57
+Text matches the expected text: 05.57
+Image: English_NA_Home_01.png
+Coordinates: (190, 222, 264, 222, 264, 248, 190, 248)
+Expected Text: Audio
+Actual Text: Audio
+Text matches the expected text: Audio
+Image: English_NA_Home_01.png
+Coordinates: (370, 222, 470, 222, 470, 248, 370, 248)
+Expected Text: Climate
+Actual Text: Climate
+Text matches the expected text: Climate
+Image: English_NA_Home_01.png
+Coordinates: (561, 217, 676, 217, 676, 256, 561, 256) not found for this image.
+Image: English_NA_Settings_02.png
+Coordinates: (309, 7, 518, 7, 518, 46, 309, 46) not found for this image.
+Image: English_NA_Settings_02.png
+Coordinates: (309, 111, 513, 111, 513, 152, 309, 152) not found for this image.
+Image: English_NA_Settings_03.png
+Coordinates: (303, 11, 535, 11, 535, 47, 303, 47)
+Expected Text: Display Brightness
+Actual Text: Display Brightness
+Text matches the expected text: Display Brightness
+Image: English_NA_Settings_03.png
+Coordinates: (382, 184, 456, 184, 456, 210, 382, 210)
+Expected Text: Reset
+Actual Text: Reset
+Text matches the expected text: Reset
+Image: English_UK_AAR_06.png
+Coordinates: (161, 11, 309, 11, 309, 47, 161, 47)
+Expected Text: Cabin Air
+Actual Text: Cabin Air
+Text matches the expected text: Cabin Air
+Image: English_UK_AAR_06.png
+Coordinates: (143, 122, 317, 122, 317, 148, 143, 148)
+Expected Text: Environmenta
+Actual Text: Environmenta
+Text matches the expected text: Environmenta
+Image: English_UK_AAR_06.png
+Coordinates: (449, 121, 706, 121, 706, 157, 449, 157) not found for this image.
+Image: English_UK_AAR_06.png
+Coordinates: (200, 150, 264, 150, 264, 178, 200, 178)
+Expected Text: limit
+Actual Text: limit
+Text matches the expected text: limit
+Image: English_UK_AAR_06.png
+Coordinates: (366, 160, 788, 160, 788, 192, 366, 192) not found for this image.
+Image: English_UK_AAR_06.png
+Coordinates: (408, 190, 744, 190, 744, 223, 408, 223) not found for this image.
+Image: English_UK_Audio_01.png
+Coordinates: (129, 58, 219, 58, 219, 84, 129, 84)
+Expected Text: Source
+Actual Text: Source
+Text matches the expected text: Source
+Image: English_UK_Audio_01.png
+Coordinates: (612, 58, 708, 58, 708, 84, 612, 84)
+Expected Text: Volume
+Actual Text: Volume
+Text matches the expected text: Volume
+Image: English_UK_Audio_01.png
+Coordinates: (388, 180, 454, 180, 454, 208, 388, 208)
+Expected Text: Seek
+Actual Text: Seek
+Text matches the expected text: Seek
+Image: English_UK_Audio_01.png
+Coordinates: (130, 204, 226, 204, 226, 230, 130, 230) not found for this image.
+Image: English_UK_Audio_03.png
+Coordinates: (372, 12, 468, 12, 468, 38, 372, 38)
+Expected Text: Presets
+Actual Text: Presets
+Text matches the expected text: Presets
+Image: English_UK_Audio_04.png
+Coordinates: (359, 12, 461, 12, 461, 37, 359, 37) not found for this image.
+Image: English_UK_Audio_04.png
+Coordinates: (150, 112, 194, 112, 194, 140, 150, 140)
+Expected Text: AM
+Actual Text: AM
+Text matches the expected text: AM
+Image: English_UK_Audio_04.png
+Coordinates: (414, 112, 456, 112, 456, 140, 414, 140)
+Expected Text: FM
+Actual Text: FM
+Text matches the expected text: FM
+Image: English_UK_Audio_04.png
+Coordinates: (634, 110, 730, 110, 730, 140, 634, 140)
+Expected Text: Iiri  DAB
+Actual Text: Iiri  DAB
+Text matches the expected text: Iiri  DAB
+Image: English_UK_Audio_04.png
+Coordinates: (75, 187, 111, 187, 111, 201, 75, 201)
+Expected Text: Sxm
+Actual Text: Sxm
+Text matches the expected text: Sxm
+Image: English_UK_Audio_04.png
+Coordinates: (116, 178, 228, 178, 228, 208, 116, 208)
+Expected Text: SiriusXM
+Actual Text: SiriusXM
+Text matches the expected text: SiriusXM
+Image: English_UK_Audio_04.png
+Coordinates: (396, 178, 470, 178, 470, 208, 396, 208)
+Expected Text: USB 1
+Actual Text: USB 1
+Text matches the expected text: USB 1
+Image: English_UK_Audio_04.png
+Coordinates: (656, 178, 736, 178, 736, 210, 656, 210)
+Expected Text: USB 2
+Actual Text: USB 2
+Text matches the expected text: USB 2
+Image: English_UK_Audio_05.png
+Coordinates: (335, 79, 491, 79, 491, 115, 335, 115)
+Expected Text: Audio Off
+Actual Text: Audio Off
+Text matches the expected text: Audio Off
+Image: English_UK_Chauffeur_01.png
+Coordinates: (184, 88, 238, 88, 238, 116, 184, 116)
+Expected Text: Rise
+Actual Text: Rise
+Text matches the expected text: Rise
+Image: English_UK_Chauffeur_01.png
+Coordinates: (580, 88, 672, 88, 672, 116, 580, 116)
+Expected Text: Recline
+Actual Text: Recline
+Text matches the expected text: Recline
+Image: English_UK_Chauffeur_01.png
+Coordinates: (180, 208, 242, 208, 242, 234, 180, 234)
+Expected Text: Back
+Actual Text: Back
+Text matches the expected text: Back
+Image: English_UK_Chauffeur_01.png
+Coordinates: (573, 206, 677, 206, 677, 234, 573, 234) not found for this image.
+Image: English_UK_Heat_Cool_01.png
+Coordinates: (330, 12, 512, 12, 512, 40, 330, 40)
+Expected Text: 2nd Row Seats
+Actual Text: 2nd Row Seats
+Text matches the expected text: 2nd Row Seats
+Image: English_UK_Heat_Cool_01.png
+Coordinates: (656, 106, 772, 106, 772, 162, 656, 162)
+Expected Text: nan
+Actual Text: =W
+Text does not match the expected text: nan
+Image: English_UK_Heat_Cool_01.png
+Coordinates: (660, 190, 766, 190, 766, 240, 660, 240)
+Expected Text: nan
+Actual Text: =k
+Text does not match the expected text: nan
+Image: English_UK_Lighting_01.png
+Coordinates: (312, 12, 532, 12, 532, 44, 312, 44) not found for this image.
+Image: English_UK_Settings_02.png
+Coordinates: (309, 7, 518, 7, 518, 46, 309, 46) not found for this image.
+Image: English_UK_Settings_02.png
+Coordinates: (309, 111, 513, 111, 513, 152, 309, 152) not found for this image.
+Image: English_UK_Settings_03.png
+Coordinates: (303, 11, 535, 11, 535, 47, 303, 47)
+Expected Text: Display Brightness
+Actual Text: Display Brightness
+Text matches the expected text: Display Brightness
+Image: English_UK_Settings_03.png
+Coordinates: (382, 184, 456, 184, 456, 210, 382, 210)
+Expected Text: Reset
+Actual Text: Reset
+Text matches the expected text: Reset

@@ -1,0 +1,83 @@
+Image: English_NA_AAR_05.png, Text Box Number: 1
+Expected Text: Cabin Air
+Actual Text: Cabin Air
+No matching text found for the expected coordinates.
+Image: English_NA_AAR_05.png, Text Box Number: 2
+Expected Text: Replace
+Actual Text: Replace
+No matching text found for the expected coordinates.
+Image: English_NA_AAR_05.png, Text Box Number: 3
+No matching text found for the expected coordinates.
+Image: English_NA_AAR_05.png, Text Box Number: 4
+Expected Text: sensor
+Actual Text: sensor
+No matching text found for the expected coordinates.
+Image: English_NA_AAR_05.png, Text Box Number: 5
+No matching text found for the expected coordinates.
+Image: English_NA_AAR_05.png, Text Box Number: 6
+Expected Text: control system must be on:
+Actual Text: control system must be on:
+No matching text found for the expected coordinates.
+Image: English_NA_AAR_06.png, Text Box Number: 1
+Expected Text: Cabin Air
+Actual Text: Cabin Air
+No matching text found for the expected coordinates.
+Image: English_NA_AAR_06.png, Text Box Number: 2
+Expected Text: Environmenta
+Actual Text: Environmenta
+No matching text found for the expected coordinates.
+Image: English_NA_AAR_06.png, Text Box Number: 3
+No matching text found for the expected coordinates.
+Image: English_NA_AAR_06.png, Text Box Number: 4
+Expected Text: limit
+Actual Text: limit
+No matching text found for the expected coordinates.
+Image: English_NA_AAR_06.png, Text Box Number: 5
+No matching text found for the expected coordinates.
+Image: English_NA_AAR_06.png, Text Box Number: 6
+Expected Text: control system must be on:
+Actual Text: control system must be on:
+No matching text found for the expected coordinates.
+Image: English_NA_Audio_01.png, Text Box Number: 1
+Expected Text: Source
+Actual Text: Source
+No matching text found for the expected coordinates.
+Image: English_NA_Audio_01.png, Text Box Number: 2
+Expected Text: Volume
+Actual Text: Volume
+No matching text found for the expected coordinates.
+Image: English_NA_Audio_01.png, Text Box Number: 3
+Expected Text: Seek
+Actual Text: Seek
+No matching text found for the expected coordinates.
+Image: English_NA_Audio_01.png, Text Box Number: 4
+No matching text found for the expected coordinates.
+Image: English_NA_Audio_03.png, Text Box Number: 1
+Expected Text: Presets
+Actual Text: Presets
+No matching text found for the expected coordinates.
+Image: English_NA_Audio_05.png, Text Box Number: 1
+Expected Text: Audio Off
+Actual Text: Audio Off
+No matching text found for the expected coordinates.
+Image: English_NA_Chauffeur_01.png, Text Box Number: 1
+Expected Text: Rise
+Actual Text: Rise
+No matching text found for the expected coordinates.
+Image: English_NA_Chauffeur_01.png, Text Box Number: 2
+Expected Text: Recline
+Actual Text: Recline
+No matching text found for the expected coordinates.
+Image: English_NA_Chauffeur_01.png, Text Box Number: 3
+Expected Text: Back
+Actual Text: Back
+No matching text found for the expected coordinates.
+Image: English_NA_Chauffeur_01.png, Text Box Number: 4
+No matching text found for the expected coordinates.
+Image: English_NA_Heat_Cool_01.png, Text Box Number: 1
+Expected Text: 2nd Row Seats
+Actual Text: 2nd Row Seats
+No matching text found for the expected coordinates.
+Image: English_NA_Heat_Cool_01.png, Text Box Number: 2
+Expected Text: nan
+Actual Text: =W

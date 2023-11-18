@@ -1,0 +1,32 @@
+Image: Arabic_AAR_01.png, Text Box Number: 1
+Expected Text: هواء المقصورة
+Actual Text: هواء المقصورة
+Text matches the expected text: هواء المقصورة
+Image: Arabic_AAR_01.png, Text Box Number: 2
+Expected Text:  2.5
+Actual Text:  2.5
+Text matches the expected text:  2.5
+Image: Arabic_AAR_01.png, Text Box Number: 3
+Expected Text: 100
+Actual Text: 100
+Text matches the expected text: 100
+Image: Arabic_AAR_01.png, Text Box Number: 4
+Expected Text: تنقية الهواء التلقائية
+Actual Text: تنقية الهواء التلقائية
+Text matches the expected text: تنقية الهواء التلقائية
+Image: Arabic_AAR_01.png, Text Box Number: 5
+Expected Text: يجب
+Actual Text: يجب
+Text matches the expected text: يجب
+Image: Arabic_Audio_01.png, Text Box Number: 1
+Expected Text: مصدر
+Actual Text: مصدر
+Text matches the expected text: مصدر
+Image: Arabic_Audio_01.png, Text Box Number: 2
+Expected Text: المسبقة
+Actual Text: المسبقة
+Text matches the expected text: المسبقة
+Image: Arabic_Audio_01.png, Text Box Number: 3
+Expected Text: الموا
+Actual Text: الموا
+Text matches the expected text: الموا
